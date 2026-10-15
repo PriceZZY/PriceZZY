@@ -2,7 +2,7 @@
 
 Undergraduate in **Geospatial Data Science** at the University of Waterloo. I work on 3D computer vision and geospatial data science — representation learning on point clouds and remote-sensing imagery, and spatially-explicit simulation for environmental policy. What I keep returning to is the evaluation apparatus itself: source-controlled comparisons, frozen decision rules, blind review — because in these domains clean ground truth does not exist, and a result that looks right is not the same as a result that is right.
 
-Currently evaluating a kilometre-scale atmospheric foundation model (NVIDIA cBottle) in Prof. Chris Fletcher's group, and re-implementing point-cloud architectures (Point Transformer v3, PointMamba) at the GIM Lab.
+Currently a research assistant in two groups at Waterloo: evaluating a kilometre-scale atmospheric foundation model (NVIDIA cBottle) with Prof. Chris Fletcher, and probabilistic deep learning for daily streamflow prediction with Prof. John Quilty.
 
 ### Manuscript — sole author, under review
 
